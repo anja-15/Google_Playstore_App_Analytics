@@ -1,5 +1,5 @@
 
-# 📱 Google Play Store App Analytics 📊
+# 📱 Google Play Store App Analytics 
 
 Welcome to the **Google Play Store App Analytics** project! This notebook is dedicated to analyzing app data from the Google Play Store to gather insights into app performance, category distribution, pricing models, and user feedback trends.
 
